@@ -1,6 +1,7 @@
 package main
 
 import (
+	"auto/scp"
 	"bytes"
 	"encoding/json"
 	"errors"
@@ -10,7 +11,6 @@ import (
 	"io/ioutil"
 	"os"
 	"os/exec"
-	"scp"
 	"strings"
 	"time"
 
