@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"auto/Godeps/_workspace/src/github.com/Sirupsen/logrus"
 )
 
 var (
